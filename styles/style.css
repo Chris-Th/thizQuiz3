@@ -150,7 +150,7 @@ width: 100%;
 }
 
 
-.dropdown-menu li a {
+.dropdown-menu .dropdown-item {
   max-width: 500px;
   white-space: normal;
 }
